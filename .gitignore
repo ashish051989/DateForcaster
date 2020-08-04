@@ -5,3 +5,11 @@
 /master/Backend/Realgreen.AMA2_0/SAApi/Properties/PublishProfiles
 /master/Backend/Realgreen.AMA2_0/API/.config/dotnet-tools.json
 /master/Backend/Realgreen.AMA2_0/API/Properties/PublishProfiles/RGAppServer1.pubxml
+/src/API/obj
+/src/API/bin/Debug/netcoreapp3.1
+/src/Domain/obj
+/src/Domain/bin/Debug/netstandard2.0
+/src/DTO/obj
+/src/DTO/bin/Debug/netstandard2.0
+/src/Services/obj
+/src/Services/bin/Debug/netstandard2.0
