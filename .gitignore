@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/master/Backend/Realgreen.AMA2_0/SAApi/Properties/PublishProfiles
+/master/Backend/Realgreen.AMA2_0/API/.config/dotnet-tools.json
+/master/Backend/Realgreen.AMA2_0/API/Properties/PublishProfiles/RGAppServer1.pubxml
